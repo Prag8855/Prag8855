@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋, I'm Precious — Systems & Infrastructure Engineer based in Berlin 🇩🇪</h2>
+<h2 align="left">Hi 👋, I'm Precious — Systems & Infrastructure Engineer </h2>
 
 ###
 
 🌱 I'm passionate about building internal tooling, automating workflows, and designing scalable, secure infrastructure.  
 🔧 Skilled in Python, Bash, Terraform, JAMF, AWS, FastAPI, and SaaS automation (Slack, Jira, Personio).  
 📦 Always learning and improving my DevOps pipeline engineering skills.  
-🌍 Open to remote work or relocation | 🇩🇪 German Citizenship
+🌍 Open to remote work or relocation | German Citizenship
 
 ---
 
