@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Precious — Senior IT Systems Engineer </h2>
+<h2 align="left">Hi 👋, I'm Precious, Senior IT Systems Engineer </h2>
 
 ###
 
