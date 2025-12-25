@@ -31,15 +31,6 @@ I bridge the gap between IT Operations and Engineering by building internal tool
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prag8855&show_icons=true&theme=radical&hide_border=true" height="170" alt="Precious's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prag8855&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
----
-
 ### 📂 Featured Automation Focus
 * **Internal Tooling:** Developing custom APIs with **FastAPI** to sync HR data (Personio) with IT directories.
 * **Infrastructure:** Deploying and managing secure AWS environments using **Terraform**.
@@ -50,9 +41,6 @@ I bridge the gap between IT Operations and Engineering by building internal tool
 ### 📫 Connect with me
 
 <div align="left">
-  <a href="mailto:preciousagaga@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/precious-agaga">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
