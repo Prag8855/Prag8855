@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Germany-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Citizenship-EU%20%2F%20German-gold?style=flat-square" />
 </p>
 
