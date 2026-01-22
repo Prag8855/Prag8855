@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Precious</h1>
-<h3 align="center">Senior IT Systems Engineer | Automation Architect | DevOps Enthusiast</h3>
+<h3 align="center">Senior IT Systems Engineer | Automation Architect </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Germany-blue?style=flat-square&logo=googlemaps&logoColor=white" />
